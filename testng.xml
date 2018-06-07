@@ -6,4 +6,8 @@
       <class name="com.keeley.LessonFive_hk.TestCase"/>
     </classes>
   </test> <!-- Test -->
+  
+  <listeners>
+  	<listener class-name=""com.keeley.RerunDemo.RetryListener/>
+  </listeners>
 </suite> <!-- Suite -->
