@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="1" total="2" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="67" started-at="2018-06-09T16:24:50Z" finished-at="2018-06-09T16:24:50Z">
+  <suite name="Default suite" duration-ms="64" started-at="2018-06-09T16:33:32Z" finished-at="2018-06-09T16:33:32Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="67" started-at="2018-06-09T16:24:50Z" finished-at="2018-06-09T16:24:50Z">
+    <test name="Default test" duration-ms="64" started-at="2018-06-09T16:33:32Z" finished-at="2018-06-09T16:33:32Z">
       <class name="com.keeley.RerunDemo.FailTestDemo">
-        <test-method status="FAIL" signature="name()[pri:0, instance:com.keeley.RerunDemo.FailTestDemo@6093dd95]" name="name" duration-ms="21" started-at="2018-06-10T00:24:50Z" finished-at="2018-06-10T00:24:50Z">
+        <test-method status="FAIL" signature="name()[pri:0, instance:com.keeley.RerunDemo.FailTestDemo@6093dd95]" name="name" duration-ms="22" started-at="2018-06-10T00:33:32Z" finished-at="2018-06-10T00:33:32Z">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [true] but found [false]]]>
@@ -50,7 +50,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- name -->
-        <test-method status="PASS" signature="name2()[pri:0, instance:com.keeley.RerunDemo.FailTestDemo@6093dd95]" name="name2" duration-ms="3" started-at="2018-06-10T00:24:50Z" finished-at="2018-06-10T00:24:50Z">
+        <test-method status="PASS" signature="name2()[pri:0, instance:com.keeley.RerunDemo.FailTestDemo@6093dd95]" name="name2" duration-ms="3" started-at="2018-06-10T00:33:32Z" finished-at="2018-06-10T00:33:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- name2 -->
