@@ -8,6 +8,6 @@
     </classes>
   </test> <!-- Test -->
   <listeners>
-  	<listener class-name="com.keeley.RerunDemo.RetryListener"/>
+  	<listener class-name="com.keeley.RerunDemo.RetryListener" />
   </listeners>
 </suite> <!-- Suite -->
