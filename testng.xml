@@ -9,5 +9,8 @@
   
   <listeners>
   	<listener class-name="com.keeley.RerunDemo.RetryListener" />
+  	<classes>
+      <class name="com.keeley.RerunDemo.FailTestDemo"/>
+    </classes>
   </listeners>
 </suite> <!-- Suite -->
